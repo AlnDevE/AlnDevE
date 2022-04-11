@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Alan Fernando
 
-- 🔭 Hoje estou trabalhando com com Back-End
+- 🔭 Hoje estou trabalhando com Back-End
 - 🌱 Estudando Java Spring Boot
 
 <div align="center">
