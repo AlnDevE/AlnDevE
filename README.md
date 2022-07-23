@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Alan Fernando
 
-- 🔭 Hoje estou trabalhando com Back-End
-- 🌱 Estudando Java Spring Boot
+- 🔭 Hoje estou trabalhando como Full-Stack
+- 🌱 Estudando Angular, Python, TypeScript
 
 <div align="center">
   <a href="https://github.com/AlnDevE">
