@@ -1,7 +1,9 @@
-### Olá, Eu sou o Alan Fernando
+### Olá, Eu sou o Alan
 
-- 🔭 Hoje estou trabalhando como Full-Stack
-- 🌱 Estudando Angular, Python, TypeScript
+-  Hoje estou trabalhando como Full-Stack.
+-  Possuo conhecimentos em linguagens como: Python, Java e TypeScript.
+-  Desenvolvimento em nuvem - AWS.
+-  Frameworks: Angular, FastApi e Spring Boot.
 
 <div align="center">
   <a href="https://github.com/AlnDevE">
